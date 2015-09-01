@@ -1,49 +1,47 @@
-> Please read our slide creation guidelines in [the wiki](https://github.com/girldevelopit/gdi-slides-template/wiki). Then, delete this banner and add the specifics about your class below.
-
-# Add Your Course Title Here
+# Intro to Wordpress
 
 Slides and materials are hosted at [http://example.com/](http://example.com/).
 
 ## Course description
 
-Use this space for a short description of your course. We recommend using the description from your meetup event.
+WordPress is the most in demand CMS out right now accounting for over 50% of the market.
 
-**Cost:** 
+WordPress powers The New Yorker, MTV News, CNN and a slew of [other big named brands.](https://wordpress.com/notable-users/)
 
-**Dates:** 
+Since it's inception it has become more than a blogging tool and is used to build e-Commerce sites,
+social networks, job boards,etc.
 
-**Location:** 
+In this Workshop we will run through everything you need to know to get up and running with WordPress.
+
+
+**Cost:**
+
+**Dates:**
+
+**Location:**
 
 A limited number of scholarships are available for those with a financial hardship. To apply, contact us at...
 
 
 ### Prerequisites:
 
-List any prerequisites for this class, including any previous classes or the equivalent self-study or real-world skills.
-
-You should have:
-
-(a) taken Intro or Intermediate HTML/CSS through Girl Develop It, or
-
-(b) built and managed websites on your own,
-
-**And also:**
-
-(a) taken intro to JavaScript through Girl Develop It, or
-
-(b) be familiar with syntax, arrays, conditionals, for and while loops, event handling, jQuery, AJAX requests, and handling JSON responses.
+This course is for beginners. No prerequisites required.
 
 
 ### Tech requirements:
 
  - Your laptop (Mac, PC, or Linux are all okay).
- - A modern web browser - either Chrome or Firefox with Firebug installed.
- - A text editor. We recommend Sublime Text 2 (free; available for Mac, PC, and Linux).
+ - A modern web browser - either Chrome or Firefox.
 
 
 ### Topics covered:
 
- - The topics you plan to cover
- - Written in list form
- - Here's another one
+ - What is WordPress?
+ - WordPress.com vs WordPress.org
+ - Setting up a WordPress.com site
+ - Moving your WordPress.com site to WordPress.org
+ - Plugins & Themes
+
+
+
 
